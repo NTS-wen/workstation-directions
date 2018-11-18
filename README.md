@@ -15,7 +15,7 @@
 7. 由于系统盘SSD仅有256GB，而HDD有2T。如有大文件等（如几G的数据集）需要存储，请放在/media/hdd目录下，此目录已挂载HDD。
 8. 如有对以上问题不清楚或者有更好的使用建议，可以随时联系我。
 
-#### TensorFlow安装方法
+#### TensorFlow使用方法
 
 ​	查看[教程](http://www.tensorfly.cn/tfdoc/get_started/os_setup.html#virtualenv_install)，选择基于VirtualEnv的方法进行安装。
 
