@@ -38,7 +38,7 @@ deactivate
 
 当退出VirtualEnv时，命令行前的(tensorflow)取消
 
-#### MobaXterm使用方法**
+#### MobaXterm使用方法
 
 ​	通过建立新会话，在Remote host处输入IP，登录后输入用户名和密码进行连接即可。
 
