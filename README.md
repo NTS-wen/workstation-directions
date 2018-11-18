@@ -16,6 +16,6 @@
 
 **MobaXterm使用方法**：通过建立新会话，在Remote host处输入IP，登录后输入用户名和密码进行连接即可。
 
-<center> ![1542534415120](README.assets/1542534415120.png) </center>
+<img src="README.assets/1542534415120.png" width = "100" height = "100" div align=center />
 
-<center> ![1542534497857](README.assets/1542534497857.png) </center>
+<img src="README.assets/1542534497857.png" width = "100" height = "100" div align=center />
