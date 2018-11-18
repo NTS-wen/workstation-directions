@@ -7,7 +7,7 @@
 1. 在校外使用，需先连学校VPN。
 2. 为了避免各自环境变量之前的冲突，建议只是用自己的账号通过MobaXterm等支持SSH协议的软件登录工作站，MobaXterm已经上传至此仓库。
 3. 传输文件尽量传输到/media/hdd，可以通过MobaXterm或者[Filezilla](https://filezilla-project.org/)等支持sftp协议的软件进行传输。
-4. IP可能不定期更新，可以在群里咨询。
+4. 由于学校IP无法固定，IP可能被不定期更新，可以在群里咨询。
 5. 尽量不要更新系统和系统中的软件。
 6. 请不要更改系统中的环境变量，环境变量都设置在自己的目录下。安装目录如/home/**your_name**/.bashrc(~/.bashrc)
 7. 有需要安装软件的时候尽量使用源码安装方式在自己的工作空间中，安装目录如/home/**your_name**/local_install
