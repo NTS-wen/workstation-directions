@@ -1,12 +1,12 @@
 ## 自主机器人与视觉智能团队工作站使用说明
 
-关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考我这篇简书https://www.jianshu.com/p/9a49ac119509。
+关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
 
-关于Ubuntu下的基本命令使用说明，可以参考我这篇简书https://www.jianshu.com/p/9a49ac119509。
+关于Ubuntu下的基本命令使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
 
 1. 在校外使用，需先连学校VPN。
 2. 为了避免各自环境变量之前的冲突，建议只是用自己的账号通过MobaXterm等支持SSH协议的软件登录工作站，MobaXterm已经上传至此仓库。
-3. 传输文件尽量传输到/media/hdd，可以通过MobaXterm或者Filezilla等支持sftp协议的软件进行传输。
+3. 传输文件尽量传输到/media/hdd，可以通过MobaXterm或者[Filezilla](https://filezilla-project.org/)等支持sftp协议的软件进行传输。
 4. IP可能不定期更新，可以在群里咨询。
 5. 尽量不要更新系统和系统中的软件。
 6. 请不要更改系统中的环境变量，环境变量都设置在自己的目录下。安装目录如/home/**your_name**/.bashrc(~/.bashrc)
