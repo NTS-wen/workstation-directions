@@ -17,7 +17,7 @@
 
 
 
-**MobaXterm使用方法**
+#### **MobaXterm使用方法**
 
 ​	通过建立新会话，在Remote host处输入IP，登录后输入用户名和密码进行连接即可。
 
@@ -25,7 +25,7 @@
 
 
 
-**Filezilla传输文件**
+#### **Filezilla传输文件**
 
 在Host处输入**sftp**://ip，Username输入用户名，Password输入密码。
 
@@ -33,6 +33,6 @@
 
 
 
-**~/.zshrc本地环境变量文件**
+#### **~/.zshrc本地环境变量文件**
 
 <div align="center"><img src="README.assets/1542536792129.png"  width="80%" height="80%"/></div>
