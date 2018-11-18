@@ -15,9 +15,30 @@
 7. 由于系统盘SSD仅有256GB，而HDD有2T。如有大文件等（如几G的数据集）需要存储，请放在/media/hdd目录下，此目录已挂载HDD。
 8. 如有对以上问题不清楚或者有更好的使用建议，可以随时联系我。
 
+#### TensorFlow安装方法
 
+​	查看[教程](http://www.tensorfly.cn/tfdoc/get_started/os_setup.html#virtualenv_install)，选择基于VirtualEnv的方法进行安装。
 
-#### **MobaXterm使用方法**
+**进入TensoFlow环境**
+
+```bash
+source tensorflow/bin/activate
+```
+
+**退出TensorFlow环境**
+
+```
+deactivate
+#命令提示显示原样
+```
+
+当进入VirtualEnv时，命令行前显示为(tensorflow)时成功进入，
+
+![1542561847148](README.assets/1542561847148.png)
+
+当退出VirtualEnv时，命令行前的(tensorflow)取消
+
+#### MobaXterm使用方法**
 
 ​	通过建立新会话，在Remote host处输入IP，登录后输入用户名和密码进行连接即可。
 
