@@ -1,8 +1,8 @@
 ## 自主机器人与视觉智能团队工作站使用说明
 
-关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考简书https://www.jianshu.com/p/9a49ac119509。
+关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考我这篇简书https://www.jianshu.com/p/9a49ac119509。
 
-关于Ubuntu下的基本命令使用说明，可以参考简书https://www.jianshu.com/p/9a49ac119509。
+关于Ubuntu下的基本命令使用说明，可以参考我这篇简书https://www.jianshu.com/p/9a49ac119509。
 
 1. 在校外使用，需先连学校VPN。
 2. 可以使用自己的账号通过MobaXterm等支持SSH协议的软件登录工作站，软件已经上传至此仓库。
