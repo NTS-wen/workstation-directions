@@ -1,9 +1,5 @@
 ## 自主机器人与视觉智能团队工作站使用说明
 
-关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
-
-关于Ubuntu下的基本命令使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
-
 请大家使用工作站上一定要**严格遵循以下几条规则**，不然会产生各种使用问题。
 
 1. 在校外使用，需先连学校VPN。
@@ -15,9 +11,27 @@
 7. 由于系统盘SSD仅有256GB，而HDD有2T。如有大文件等（如几G的数据集）需要存储，请放在/media/hdd目录下，此目录已挂载HDD。
 8. 如有对以上问题不清楚或者有更好的使用建议，可以随时联系我。
 
-#### 软件说明
+关于Caffe、Cuda、Matlab在ubuntu下的安装使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
 
-CUDA8.0，CUDNN5.1
+关于Ubuntu下的基本命令使用说明，可以参考我[这篇简书](https://www.jianshu.com/p/9a49ac119509)。
+
+#### 工作站硬件配置
+
+**型号**：Dell Precision Tower T7920
+
+**CPU**：Intel Xeon Silver 4114，10核20线程，主频为2.2GHz
+
+**内存**：64GB
+
+**GPU**：NVIDIA Geforce GTX 1080TI
+
+**显存**：11G。
+
+#### 工作站软件配置
+
+**操作系统**：Ubuntu 16.04 LTS（64位）
+
+CUDA8.0+CUDNN5.1，CUDA9.0+CUDNN7.3
 
 #### TensorFlow使用方法
 
