@@ -15,17 +15,27 @@
 7. 由于系统盘SSD仅有256GB，而HDD有2T。如有大文件等（如几G的数据集）需要存储，请放在/media/hdd目录下，此目录已挂载HDD。
 8. 如有对以上问题不清楚或者有更好的使用建议，可以随时联系我。
 
+#### 软件说明
+
+CUDA8.0，CUDNN5.1
+
 #### TensorFlow使用方法
 
 ​	查看[教程](http://www.tensorfly.cn/tfdoc/get_started/os_setup.html#virtualenv_install)，选择基于VirtualEnv的方法进行安装。
 
-**进入TensoFlow环境**
+**版本**
+
+python3.5，tensorflow1.2，VirtualEnv放在/home/jiasudu/tensorflow_py3下
+
+python2.7，tensorflow1.2，VirtualEnv放在/home/jiasudu/tensorflow下
+
+**进入TensoFlow环境示例**
 
 ```bash
 source tensorflow/bin/activate
 ```
 
-**退出TensorFlow环境**
+**退出TensorFlow环境示例**
 
 ```
 deactivate
