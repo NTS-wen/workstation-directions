@@ -2,7 +2,7 @@
 
 请大家使用工作站上一定要**严格遵循以下几条规则**，不然会产生各种使用问题。
 
-1. 在校外使用，需先连学校VPN。
+1. 在校外使用，需先连[学校VPN](README.assets/VPN使用方法.pdf)。
 2. 为了避免各自环境变量之前的冲突，建议只是用自己的账号通过MobaXterm等支持SSH协议的软件登录工作站，MobaXterm已经上传至此仓库。
 3. 传输文件尽量传输到/media/hdd，可以通过MobaXterm或者[Filezilla](https://filezilla-project.org/)等支持sftp协议的软件进行传输。
 4. 由于学校IP无法固定，IP可能被不定期更新，可以在群里咨询最新IP。
